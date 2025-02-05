@@ -90,14 +90,14 @@ The **Sports Equipment Store** is an e-commerce platform built with **React, Nod
 
 ## ⚙️ Configuration
 ### Set up the .env file in the server directory with the necessary environment variables:
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-FIREBASE_API_KEY=your_firebase_api_key
-FIREBASE_AUTH_DOMAIN=your_firebase_auth_domain
-FIREBASE_PROJECT_ID=your_firebase_project_id
-FIREBASE_STORAGE_BUCKET=your_firebase_storage_bucket
-FIREBASE_MESSAGING_SENDER_ID=your_firebase_messaging_sender_id
-FIREBASE_APP_ID=your_firebase_app_id
+- PORT=5000
+- MONGO_URI=your_mongodb_connection_string
+- FIREBASE_API_KEY=your_firebase_api_key
+- FIREBASE_AUTH_DOMAIN=your_firebase_auth_domain
+- FIREBASE_PROJECT_ID=your_firebase_project_id
+- FIREBASE_STORAGE_BUCKET=your_firebase_storage_bucket
+- FIREBASE_MESSAGING_SENDER_ID=your_firebase_messaging_sender_id
+- FIREBASE_APP_ID=your_firebase_app_id
 
 
 ## 🛠️ Troubleshooting
