@@ -1,5 +1,5 @@
 # Sports Equipment Store 🏀⚽🏏
-### live link :[]
+### Live Link :[https://assignment-10-lotus.web.app/]
 ## 📌 Introduction
 
 The **Sports Equipment Store** is an e-commerce platform built with **React, Node.js, and MongoDB** to help users browse, purchase, and explore a variety of sports equipment. The store provides a smooth user experience with **real-time notifications, authentication, and animations**.
