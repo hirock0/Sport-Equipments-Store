@@ -28,7 +28,7 @@ The **Sports Equipment Store** is an e-commerce platform built with **React, Nod
 
 ## Clone the repository**
    ```sh
-   git clone https://github.com/hirock0/sports-equipment-store.git
+   git clone https://github.com/hirock0/Sport-Equipments-Store.git
    cd sports-equipment-store
 ```
 ### Install backend dependencies
